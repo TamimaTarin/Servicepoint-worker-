@@ -5,6 +5,7 @@ online work we will provide people to help others in their daily life (ex: Dry-c
 Plumber etc.). Mainly there will be 3 types of users in our site.
 Common for All:
 All Users can Register and Log in. But
+
 Customer:
 
 1. Customers will just log in and request for the service they want and will only just provide their
@@ -14,6 +15,7 @@ personalized message or separated thread for the particular work to monitor the 
 information.
 3. Customer can ask for other assistance in forum regarding all matter and the forum will be open
 for all to discuss.
+
 Worker:
 
 1. Workers cannot register the site easily. They have to attach their CV to the registration. For some
